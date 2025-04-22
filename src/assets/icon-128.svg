@@ -1,0 +1,8 @@
+
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <rect width="128" height="128" rx="25.6" fill="#4F46E5" />
+  <text x="50%" y="50%" font-family="Arial, sans-serif" font-weight="bold" font-size="64" 
+    fill="white" text-anchor="middle" dominant-baseline="central">AI</text>
+  <path d="M25.6,83.2 L48.64,102.4 L102.4,38.4" 
+    stroke="white" stroke-width="8.533333333333333" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
