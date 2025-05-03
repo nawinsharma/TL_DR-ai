@@ -4,6 +4,9 @@
 
 A Chrome extension that uses the Gemini AI API to generate concise summaries of web pages. Built with React, TypeScript, and Tailwind CSS.
 
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ## Features
 
 - 📝 Generate summaries of any web page with one click
@@ -13,6 +16,9 @@ A Chrome extension that uses the Gemini AI API to generate concise summaries of 
 - 🔄 Share summaries on social media
 - 🔒 Secure API key storage (locally only)
 - 🎨 Clean, responsive UI
+
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## Screenshots
 ![geminikey](image-2.png)
@@ -24,6 +30,10 @@ Before you begin, ensure you have the following installed:
 - [Node.js](https://nodejs.org/) (v14 or later)
 - [npm](https://www.npmjs.com/) (v6 or later)
 - Google Chrome browser
+
+
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## Getting Started
 
@@ -63,12 +73,18 @@ This creates a `dist` directory with the extension files.
 3. Click "Load unpacked" and select the `dist` directory
 4. The extension should now appear in your extensions list
 
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ## Usage
 
 1. Click the AI Summarizer icon in your Chrome toolbar
 2. If it's your first time, enter your Gemini API key
 3. Click "Summarize Page" to generate a summary of the current webpage
 4. Use the provided buttons to copy, download, or share the summary
+
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## Development
 
@@ -78,6 +94,10 @@ This creates a `dist` directory with the extension files.
 - `npm run build` - Build for production
 - `npm run watch` - Watch for changes during development
 - `npm run generate-icons` - Generate extension icons
+
+
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ### Project Structure
 
@@ -91,9 +111,16 @@ src/
 └── services/         # API services
 ```
 
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ## License
 
 [MIT](LICENSE)
+
+
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## Acknowledgements
 
@@ -101,6 +128,10 @@ src/
 - [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
+
+
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## Contact
 
