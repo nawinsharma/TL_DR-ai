@@ -4,7 +4,7 @@ export async function generateSummary(apiKey: string, content: string): Promise<
   try {
     const genAI = new GoogleGenerativeAI(apiKey);
     
-    const model = genAI.getGenerativeModel({ model: "gemini-1.5-pro" });
+    const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
     
     const prompt = `
     Please summarize the following content in a clear and concise manner. 
